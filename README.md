@@ -6,7 +6,7 @@ The project includes:
 
 Multi-level image segmentation functions
 
-Objective functions based on Otsu and Kapur
+Objective functions based on Otsu 
 
 Evaluation metrics (RMSE, PSNR, SSIM, ACC, STD)
 
